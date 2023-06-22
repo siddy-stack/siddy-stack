@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Profile
 
-|[![siddy-stack's GitHub | Languages Over Time](https://stats.quine.sh/siddy-stack/languages-over-time?theme=dark)](https://quine.sh)![![siddy-stack's GitHub | Topics Over Time](https://stats.quine.sh/siddy-stack/topics-over-time?theme=dark)](https://quine.sh)|
+|![Languages Over Time](https://stats.quine.sh/siddy-stack/languages-over-time?theme=dark)](https://quine.sh)|![Topics Over Time](https://stats.quine.sh/siddy-stack/topics-over-time?theme=dark)](https://quine.sh)|
 |:-:|:-:|
 |Languages|Topics|
 
