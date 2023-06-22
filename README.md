@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 |:-:|:-:|
 |Languages|Topics|
 
-![Github statistics](![siddy-stack's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddy-stack&hide=contribs,prs&show_icons=true&theme=algolia)
+![Github statistics](!(https://github-readme-stats.vercel.app/api?username=siddy-stack&hide=contribs,prs&show_icons=true&theme=algolia)
 ![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siddy-stack&layout=compact&langs_count=8&theme=algolia)
 
 ![Github Stats](https://visitcount.itsvg.in/api?id=siddy-stack&icon=0&color=0)
